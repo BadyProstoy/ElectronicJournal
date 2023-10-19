@@ -32,9 +32,10 @@
         <Button Content="Войти" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" Width="75"/>
         <Button Content="Регистрация" Grid.Column="2" Grid.Row="5" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,10" Width="75"/>
         <Label Content="Нет аккаунта?" Grid.Row="5" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Button Content="Сменить Пароль" Grid.Column="0" Grid.Row="5" HorizontalAlignment="Left" Height="26" Margin="10,26,0,0" VerticalAlignment="Top" Width="111"/>
 
 
 
 
-    </Grid> 
+    </Grid>
 </Window>
